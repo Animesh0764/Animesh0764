@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Animesh0764
-- 👀 I’m interested in Python and C applications
-- 🌱 I’m currently learning Python and C
+- 👀 I’m interested in Competitive Backend Programming
+- 🌱 I’m currently learning C
 - 📫 How to reach me - animeshbksingh@outlook.com
 
 <!---
