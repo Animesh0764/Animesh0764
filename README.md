@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Animesh0764
 - 👀 I’m interested in Competitive Backend Programming
-- 🌱 I’m currently learning C
+- 🌱 Learning JavaScript 
 - 📫 How to reach me - animeshbksingh@outlook.com
 
 <!---
