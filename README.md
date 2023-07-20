@@ -15,8 +15,6 @@
 
 ##
 
-<p align="center" style="margin-top: 150px"> <img src="https://komarev.com/ghpvc/?username=animesh0764&label=Profile%20visits&color=blueviolet&style=for-the-badge" height="70" alt="animesh0764" /> </p>
-
 <h3 align="center" style="margin-top: 150px">About me:</h3>
 
 
@@ -63,3 +61,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh0764&show_icons=true&locale=en&layout=compact&theme=radical" alt="animesh0764" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=animesh0764&show_icons=true&locale=en&theme=radical" alt="animesh0764" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh0764&" alt="animesh0764" /></span></p>
+
+##
+
+<p align="center" style="margin-top: 150px"> <img src="https://komarev.com/ghpvc/?username=animesh0764&label=Profile%20visits&color=blueviolet&style=for-the-badge" height="70" alt="animesh0764" /> </p>
