@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **C/C++/Python, Frontend and Backend Dev**
 
-- 📫 How to reach me **animeshbksingh@outlook.com**
+- 📫 How to reach me **animeshsingh0704@gmail.com**
 
 - 📄 Know about my experiences on [My Portfolio](https://animesh-singh.netlify.app/)
 
