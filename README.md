@@ -27,7 +27,7 @@ I enjoy designing reliable APIs, building AI agents, and shipping production-gra
 - 🌱 I’m currently deepening my understanding of **ML, System Design, and Cloud Infrastructure**
 - 👨‍💻 All of my projects and experiences are available at [My Portfolio](https://animesh-singh-portfolio.vercel.app/)
 - 💬 Ask me about **Backend Engineering, AI Agents, RAG Systems, APIs, and System Design**
-- 📫 How to reach me **animeshsingh0704@gmail.com**
+- 📫 How to reach me **animeshbksingh@outlook.com**
 - ⚡ Fun fact **I prefer building systems over talking about them**
 
 </h4>
@@ -75,11 +75,11 @@ I enjoy designing reliable APIs, building AI agents, and shipping production-gra
 <img style="padding: 20px" src="https://cdn.worldvectorlogo.com/logos/django.svg" height="50" />
 <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" />
 <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" />
-<img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="50" />
+<!-- <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" height="50" /> -->
 
 <!-- Databases & DevOps -->
 <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" />
-<img style="padding: 20px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/aws.svg" height="50" />
+<!-- <img style="padding: 20px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/aws.svg" height="50" /> -->
 <img style="padding: 20px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/aws.svg" height="50" />
 <img style="padding: 20px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="50" />
 
