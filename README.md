@@ -24,11 +24,10 @@ I enjoy designing reliable APIs, building AI agents, and shipping production-gra
 <h4>
 
 - 🔭 I’m currently working on **AI Agent–based backend systems & scalable APIs**
-- 🌱 I’m currently deepening my understanding of **FastAPI, Django, System Design, and Cloud Infrastructure**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://animesh-singh.netlify.app/)
+- 🌱 I’m currently deepening my understanding of **ML, System Design, and Cloud Infrastructure**
+- 👨‍💻 All of my projects and experiences are available at [My Portfolio](https://animesh-singh-portfolio.vercel.app/)
 - 💬 Ask me about **Backend Engineering, AI Agents, RAG Systems, APIs, and System Design**
 - 📫 How to reach me **animeshsingh0704@gmail.com**
-- 📄 Know about my experiences on [My Portfolio](https://animesh-singh.netlify.app/)
 - ⚡ Fun fact **I prefer building systems over talking about them**
 
 </h4>
@@ -37,26 +36,26 @@ I enjoy designing reliable APIs, building AI agents, and shipping production-gra
 
 <h3 align="center" style="margin-top: 150px">Connect with me:</h3>
 <p align="center">
-<a href="https://dev.to/animesh0764" style="padding: 20px" target="blank">
+<!-- <a href="https://dev.to/animesh0764" style="padding: 20px" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="40" width="50" />
-</a>
+</a> -->
 <a href="https://stackoverflow.com/users/21135338" style="padding: 20px" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="50" />
 </a>
 <a href="https://instagram.com/animesh_0764" style="padding: 20px" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
 </a>
-<a href="https://www.codechef.com/users/as_221030360" style="padding: 20px" target="blank">
+<!-- <a href="https://www.codechef.com/users/as_221030360" style="padding: 20px" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" width="50" />
 </a>
 <a href="https://www.hackerrank.com/@h221030360" style="padding: 20px" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="50" />
-</a>
+</a> -->
 <a href="https://www.leetcode.com/animesh0764" style="padding: 20px" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
 </a>
-<a href="https://auth.geeksforgeeks.org/user/animesh_0764/profile" style="padding: 20px" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" width="50" />
+<a href="https://x.com/animesh_0764" style="padding: 20px" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="40" width="50" />
 </a>
 </p>
 
@@ -69,7 +68,7 @@ I enjoy designing reliable APIs, building AI agents, and shipping production-gra
 <!-- Backend & Core -->
 <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="50" />
 <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" />
-<img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="50" />
+<img style="padding: 20px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/ProgrammingLanguages/go.svg" height="50" />
 <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" />
 
 <!-- Frameworks -->
@@ -80,14 +79,15 @@ I enjoy designing reliable APIs, building AI agents, and shipping production-gra
 
 <!-- Databases & DevOps -->
 <img style="padding: 20px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50" />
-<img style="padding: 20px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50" />
+<img style="padding: 20px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/aws.svg" height="50" />
+<img style="padding: 20px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Devops/aws.svg" height="50" />
 <img style="padding: 20px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="50" />
 
 </p>
 
 ##
 
-<h3 align="center" style="margin-top: 150px">My Stats:</h3>
+<!-- <h3 align="center" style="margin-top: 150px">My Stats:</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=animesh0764&layout=compact&theme=radical" />
@@ -95,7 +95,7 @@ I enjoy designing reliable APIs, building AI agents, and shipping production-gra
 <img src="https://github-readme-stats.vercel.app/api?username=animesh0764&show_icons=true&theme=radical" />
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=animesh0764" />
-</p>
+</p> -->
 
 ##
 
